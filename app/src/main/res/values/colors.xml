@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0288d1</color>
+    <color name="back">#eceff1</color>
+    <color name="reset">#e0e0e0</color>
+    <color name="reset1">#f36c60</color>
+    <color name="reset2">#f06292</color>
+    <color name="reset3">#9c27b0</color>
+    <color name="reset4">#5e35b1</color>
+    <color name="reset5">#455ede</color>
+    <color name="reset6">#03a9f4</color>
+    <color name="reset7">#009688</color>
+    <color name="reset8">#ffeb3b</color>
+    <color name="reset9">#8d6e63</color>
+    <color name="bigcard">#b0bec5</color>
+    <color name="centercard">#bdbdbd</color>
+</resources>

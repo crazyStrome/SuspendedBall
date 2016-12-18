@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/exit"
+        android:id="@+id/exit"/>
+    <item android:title="@string/acvite_menu"
+        android:id="@+id/acvite_menu"/>
+    <item android:title="@string/root_menu"
+        android:id="@+id/root_menu"/>
+    <item android:title="@string/accessibility_menu"
+        android:id="@+id/accessibility_menu"/>
+    <item android:id="@+id/introduce"
+        android:title="@string/introduce"/>
+    <item android:id="@+id/overlay"
+        android:title="@string/overlay"/>
+</menu>
